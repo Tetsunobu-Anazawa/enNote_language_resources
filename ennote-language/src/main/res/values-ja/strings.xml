@@ -51,7 +51,7 @@
     <string name="last_update">最終更新 %s</string>
     <string name="error_unsigned">署名が必要です</string>
     <string name="all">全て</string>
-    <string name="search">検索...</string>
+    <string name="search">検索...(testing)</string>
     <string name="visitor">訪問者</string>
     <string name="setting_application_name">アプリケーション名</string>
     <string name="setting_version">バージョン</string>
