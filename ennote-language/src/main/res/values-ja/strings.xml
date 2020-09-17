@@ -22,6 +22,7 @@
     <string name="clear">消去</string>
     <string name="alert">警告</string>
     <string name="message_delete_approval">署名が消去されます。よろしいですか？</string>
+    <string name="error_invalid_tunnel">設定がみつかりません</string>
     <string name="error_code_empty">ペアリングコードが空欄です</string>
     <string name="error_no_internet_connection">インターネット接続がありません。もう一度お試しください。</string>
     <string name="error_login_missing_information">ユーザー名とパスワードは必須項目です</string>
@@ -29,12 +30,12 @@
     <string name="verified">検証済み</string>
     <string name="checked">確認済み</string>
     <string name="prepared">作成済み</string>
-    <string name="witnessed">Witnessed</string>
-    <string name="recorded">Recorded</string>
+    <string name="witnessed">保証済み</string>
+    <string name="recorded">記録済み</string>
     <string name="title_verified_by">検証者</string>
     <string name="title_checked_by">確認者</string>
     <string name="title_prepared_by">作成者</string>
-    <string name="title_witnessed_by">立会人</string>
+    <string name="title_witnessed_by">保証人</string>
     <string name="title_recorded_by">記録者</string>
     <string name="title_acknowledged_by">承認者</string>
     <string name="setting_sign_in">サインイン設定</string>
@@ -524,19 +525,6 @@
     <string name="processed_ring">発生したリング</string>
 
     <string name="before_ring_build">組立前</string>
-    <string name="keyboard_enter">↵</string>
-    <string name="keyboard_number_zero">0</string>
-    <string name="keyboard_number_one">1</string>
-    <string name="keyboard_number_two">2</string>
-    <string name="keyboard_number_three">3</string>
-    <string name="keyboard_number_four">4</string>
-    <string name="keyboard_number_five">5</string>
-    <string name="keyboard_number_six">6</string>
-    <string name="keyboard_number_seven">7</string>
-    <string name="keyboard_number_eight">8</string>
-    <string name="keyboard_number_nine">9</string>
-    <string name="keyboard_number_add">+/-</string>
-    <string name="keyboard_backspace">BS</string>
     <string name="shaft">立坑</string>
     <string name="measure">測定</string>
     <string name="left">左</string>

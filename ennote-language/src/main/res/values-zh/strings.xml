@@ -22,6 +22,7 @@
     <string name="clear">清除</string>
     <string name="alert">警报</string>
     <string name="message_delete_approval">签名将会被清除。确定吗？</string>
+    <string name="error_invalid_tunnel">无法找到有效隧道设定</string>
     <string name="error_code_empty">配对对象代码文本框为空</string>
     <string name="error_no_internet_connection">没有网络连接。请再试一次</string>
     <string name="error_login_missing_information">用户名和密码是必填字段</string>
@@ -524,19 +525,6 @@
     <string name="processed_ring">Processed Ring</string>
 
     <string name="before_ring_build">Before Ring Build</string>
-    <string name="keyboard_enter">↵</string>
-    <string name="keyboard_number_zero">0</string>
-    <string name="keyboard_number_one">1</string>
-    <string name="keyboard_number_two">2</string>
-    <string name="keyboard_number_three">3</string>
-    <string name="keyboard_number_four">4</string>
-    <string name="keyboard_number_five">5</string>
-    <string name="keyboard_number_six">6</string>
-    <string name="keyboard_number_seven">7</string>
-    <string name="keyboard_number_eight">8</string>
-    <string name="keyboard_number_nine">9</string>
-    <string name="keyboard_number_add">+/-</string>
-    <string name="keyboard_backspace">BS</string>
     <string name="shaft">Shaft</string>
     <string name="measure">measure</string>
     <string name="left">Left</string>
